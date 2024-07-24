@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **afifrahmanzian02@gmail.com**
 
-- ⚡ Fun fact **I Like Russian Language**
+- ⚡ Fun fact **I Like Russian Language and CTF**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
