@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afifrzn&show_icons=true&locale=en" alt="afifrzn" /></p>
 
-![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3177sxxa766veeoc3d47ws5vrb64&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=0bdac2&bar_color_cover=true)
+![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3177sxxa766veeoc3d47ws5vrb64&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)
