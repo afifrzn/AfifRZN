@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Afif</h1>
-<h3 align="center">A Future CyberSecurity</h3>
+<h3 align="center">Student at SMK TELKOM SIDOARJO</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afifrzn&label=Profile%20views&color=0e75b6&style=flat" alt="afifrzn" /> </p>
 
