@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Afif Rahman Zia Nugraha</h1>
-<h3 align="center">A Future CyberSecurity</h3>
+<h3 align="center">A Future System Administrator</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afifrzn&label=Profile%20views&color=0e75b6&style=flat" alt="afifrzn" /> </p>
 
